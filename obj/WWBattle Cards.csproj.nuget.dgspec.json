@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WWBattle Cards\\WWBattle Cards.csproj": {}
+  },
+  "projects": {
+    "D:\\WWBattle Cards\\WWBattle Cards.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WWBattle Cards\\WWBattle Cards.csproj",
+        "projectName": "WWBattle Cards",
+        "projectPath": "D:\\WWBattle Cards\\WWBattle Cards.csproj",
+        "packagesPath": "C:\\Users\\Melissa\\.nuget\\packages\\",
+        "outputPath": "D:\\WWBattle Cards\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Melissa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
