@@ -12,4 +12,27 @@ public class Support
       }
    }
 
+   public List<Card> CreateRandomDeck(List<Card> cardList)
+   {
+      List<Card> deck = new List<Card>();
+      bool[] mask = new bool[cardList.Count];
+      Random c = new Random();
+      int total = c.Next(29,51); //generates a random integer between 30 and 50 which will be the total amount of cards in the deck
+      Random r = new Random();
+      int current = 0;            //Add to class Game
+
+      while(current<total)
+      {
+         int k = r.Next(cardList.Count);
+         Card card = cardList[k];
+         if(mask[k]) continue;
+         deck.Add(card);
+         mask[k] = true;
+         current++;
+      }
+     
+      return deck;
+   }
+
 }
+
