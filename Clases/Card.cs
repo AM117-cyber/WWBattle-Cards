@@ -1,3 +1,4 @@
+namespace GameItems;
 public abstract class Card
 {
     protected int ID;

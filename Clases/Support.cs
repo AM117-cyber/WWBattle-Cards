@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+namespace GameItems;
+
 public class Support
 {
    static public void Shuffle(List<Card> deck)//Should this method go into Game class?

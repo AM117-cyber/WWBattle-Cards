@@ -1,4 +1,7 @@
-﻿public class Player
+﻿using System;
+using System.Collections.Generic;
+namespace GameItems;
+public class Player
 {
     public string Name;
     private int NumberForTurnOrder = 0;

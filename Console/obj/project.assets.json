@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Melissa\\.nuget\\packages\\": {}
+    "/home/adrianfoya/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WWBattle Cards\\WWBattle Cards.csproj",
-      "projectName": "WWBattle Cards",
-      "projectPath": "D:\\WWBattle Cards\\WWBattle Cards.csproj",
-      "packagesPath": "C:\\Users\\Melissa\\.nuget\\packages\\",
-      "outputPath": "D:\\WWBattle Cards\\obj\\",
+      "projectUniqueName": "/home/adrianfoya/Wizarding World Project/WWBattle-Cards/Console/Console.csproj",
+      "projectName": "Console",
+      "projectPath": "/home/adrianfoya/Wizarding World Project/WWBattle-Cards/Console/Console.csproj",
+      "packagesPath": "/home/adrianfoya/.nuget/packages/",
+      "outputPath": "/home/adrianfoya/Wizarding World Project/WWBattle-Cards/Console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Melissa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/adrianfoya/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/adrianfoya/.dotnet-6.0/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
