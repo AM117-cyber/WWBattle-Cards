@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+
+namespace GameItems;
 public class Game //Asumir que la informacion me va a entrar po alguna via, tu solo vas a trabajar con ella.Olvidate de por donde entre.
 {
 

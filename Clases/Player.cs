@@ -1,4 +1,7 @@
-﻿public class Player
+﻿using System;
+using System.Collections.Generic;
+namespace GameItems;
+public class Player
 {
     public string Name;
     private int NumberForTurnOrder = 0;
@@ -6,6 +9,8 @@
     private List<Card> Deck;
     public List<Card> Hand;
     public bool Winner = false;
+    public int LifePoints;
+    public int ManaPoints;
 
     public Player(string name)
     {
