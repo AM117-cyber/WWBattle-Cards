@@ -1,0 +1,15 @@
+D:\WWBattle Cards\bin\Debug\net6.0\WWBattle Cards.exe
+D:\WWBattle Cards\bin\Debug\net6.0\WWBattle Cards.deps.json
+D:\WWBattle Cards\bin\Debug\net6.0\WWBattle Cards.runtimeconfig.json
+D:\WWBattle Cards\bin\Debug\net6.0\WWBattle Cards.dll
+D:\WWBattle Cards\bin\Debug\net6.0\WWBattle Cards.pdb
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.csproj.AssemblyReference.cache
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.AssemblyInfoInputs.cache
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.AssemblyInfo.cs
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.csproj.CoreCompileInputs.cache
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.dll
+D:\WWBattle Cards\obj\Debug\net6.0\refint\WWBattle Cards.dll
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.pdb
+D:\WWBattle Cards\obj\Debug\net6.0\WWBattle Cards.genruntimeconfig.cache
+D:\WWBattle Cards\obj\Debug\net6.0\ref\WWBattle Cards.dll
