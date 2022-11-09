@@ -1,7 +1,8 @@
 namespace GameItems;
 public abstract class Card
 {
-    protected int ID;
-    protected string Name;
-    
+    public int ID;
+    public string Name;
+    public int Cost;   
 }
+

@@ -9,6 +9,8 @@ public class Player
     private List<Card> Deck;
     public List<Card> Hand;
     public bool Winner = false;
+    public int LifePoints;
+    public int ManaPoints;
 
     public Player(string name)
     {
